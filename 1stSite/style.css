@@ -1,0 +1,18 @@
+/* Selector {
+  Property: value;
+} */
+
+body {
+  background-image: url(bgimage.avif);
+  background-size: cover;
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  border: 5px solid purple;
+}
+
+p {
+  color: blue;
+}
